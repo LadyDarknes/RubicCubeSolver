@@ -7,5 +7,6 @@ using namespace std;
 
 int main() {
     initCube();
+	cube[0][0][0] = 'W';
 	isSolved();
 }
