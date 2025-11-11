@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="algortm">
+      <UniqueIdentifier>{ca704ade-3645-4ba2-8119-14689fe7ec4a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="alg1.h">
+      <Filter>algortm</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
